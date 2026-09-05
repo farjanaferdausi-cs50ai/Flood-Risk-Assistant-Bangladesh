@@ -2,7 +2,7 @@
 
 # 🌊 **Flood Risk Assistant — Bangladesh**
 
-### A Gen AI-powered agent that answers "is my district at flood risk?" in Bengali, grounded in real river-discharge data
+## A Gen AI-powered agent that answers "is my district at flood risk?" in Bengali, grounded in real river-discharge data
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
