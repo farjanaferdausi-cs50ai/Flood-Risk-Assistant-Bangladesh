@@ -148,7 +148,7 @@ AI/ML Engineering & Data Science, Fellow — Google Cloud Gen AI Academy APAC Ed
 
 LinkedIn Profile: https://www.linkedin.com/in/farjana-ferdausi/
 
-Medium Blog Link:
+Medium Blog Link: https://medium.com/@farjana.rafi1983/flood-risk-assistant-bangladesh-d19377488467
 
 Medium Profile: https://medium.com/@farjana.rafi1983
 
