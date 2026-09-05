@@ -13,14 +13,6 @@
 
 ---
 
-## 📋 GitHub "About" Section (copy into repo settings)
-
-**Description:**
-> Bengali-language flood risk assistant for Bangladesh using Gemini, Google ADK, and BigQuery window-function analytics on real GloFAS river discharge data.
-
-**Topics:**
-`google-cloud` `gemini` `google-adk` `bigquery` `generative-ai` `flood-risk` `bangladesh` `disaster-resilience` `climate-tech` `ai-agent` `bengali-nlp` `open-meteo` `social-impact` `agentic-ai` `python`
-
 ## 🎓 Project Info
 
 **Submission for:** Google Cloud Gen AI Academy APAC — Meet the Builders
@@ -28,7 +20,7 @@
 
 ---
 
-## 📌 Overview
+## 🌍 Overview
 
 Bangladesh is one of the most flood-exposed countries in the world, and flood-risk
 information often doesn't reach rural communities in a language or format they can
@@ -69,10 +61,10 @@ flood-risk-assistant/
 │   ├── fetch_flood_data.py  # Pulls river discharge from Open-Meteo
 │   └── load_to_bigquery.py  # Loads fetched data into BigQuery
 ├── app/
-│   ├── tools.py              # BigQuery-backed tools (district-relative risk logic)
-│   ├── agent.py               # ADK + Gemini agent definition
-│   └── demo.py                 # Local test harness (InMemoryRunner)
-├── schema.sql                # BigQuery table DDL
+│   ├── tools.py             # BigQuery-backed tools (district-relative risk logic)
+│   ├── agent.py             # ADK + Gemini agent definition
+│   └── demo.py              # Local test harness (InMemoryRunner)
+├── schema.sql               # BigQuery table DDL
 ├── requirements.txt
 └── README.md
 ```
@@ -154,6 +146,9 @@ official alerts, always defer to Bangladesh's Flood Forecasting and Warning Cent
 AI/ML Engineering & Data Science, Fellow — Google Cloud Gen AI Academy APAC Edition (Cohort 3) | Agentic AI · RAG · Gemini · ADK · BigQuery MCP · Cloud Run | Former HR Professional (14+ years) at Radisson Blu Dhaka Water Garden, Bangladesh
 
 LinkedIn Profile: https://www.linkedin.com/in/farjana-ferdausi/
+
+Medium Blog Link:
+
 Medium Profile: https://medium.com/@farjana.rafi1983
 
 ---
