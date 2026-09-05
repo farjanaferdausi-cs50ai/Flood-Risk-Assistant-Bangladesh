@@ -16,8 +16,8 @@
 ## 🎓 Project Info
 
 ## **Submission for:** Google Cloud Gen AI Academy APAC Edition (Cohort 3) — Meet the Builders
-### **Conducted by Google Cloud & Hack2skill**
-**Built by:** **Farjana Ferdausi**
+### **Conducted by : Google Cloud & Hack2skill**
+### **Built by : Farjana Ferdausi**
 
 ---
 
