@@ -42,7 +42,7 @@ Provides simulated river discharge (m³/s) at ~5 km resolution from 1984 to a
   applies a district-relative flood-risk classification, and answers in
   conversational Bengali
 - ⬜ **Phase 3 — Deployment:** Cloud Run
-- ⬜ **Phase 4 — Documentation:** Medium blog + LinkedIn post + demo video
+- ✅**Phase 4 — Documentation:** Medium blog + LinkedIn post + demo video
 
 ## 🛠️ Tech Stack
 
